@@ -1,3 +1,8 @@
 Hello.. this is first attemp to commit from another device
 tadaaa
 moreee changes on first
+
+this is written on pc branch
+
+
+this was written on master branch
